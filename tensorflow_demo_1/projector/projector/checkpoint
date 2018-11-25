@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:/DeepLearning/noopy/tensorflow_demo_1/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "G:/DeepLearning/noopy/tensorflow_demo_1/projector/projector/a_model.ckpt-1001"
